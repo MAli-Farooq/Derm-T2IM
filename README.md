@@ -1,5 +1,12 @@
 # Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models
 
+1. The complete block diagram represetation along with working methodology of the proposed system is as follows.
+![](images/block-diagram-2.png)
+
+2. The below figure show the samples images of benign and malignant data.
+![](images/Benign-Samples.png)
+![](images/Malignant-Samples.png)
+
 This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools
 
 The complete novel synthetic datset can be downloaded from provided google drive link.
@@ -8,8 +15,6 @@ https://github.com/ultralytics/yolov5
 The  trained model can be downloaded from our hugging face space.
 Link: https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
 
-1. The complete block diagram represetation along with working methodology of the proposed system is as follows.
-![](images/block-diagram-2.png)
 
 Link: https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EmSY4MawO89Kt_6wsDn_V1YBzeuwLYe6z2b2VU2WJp0b3g?e=wb8IgU
 
