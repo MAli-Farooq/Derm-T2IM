@@ -23,8 +23,8 @@ This repo contains all the codes. trained models, Newly generated synthetic skin
 1. The complete synthetic dataset comprising of 3K benign and 3K malignant samples can be downloaded from the below google-drive link.
 Link: 
 
-2. The sample dataset can be downloaded from the below link
-Link: 
+2. The sample dataset can be downloaded from our github page sample dataset folder 
+
 
 3. The  trained/ tuned model can be downloaded from our hugging face space.
 Link: 
