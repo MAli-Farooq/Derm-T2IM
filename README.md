@@ -9,7 +9,7 @@ The  trained model can be downloaded from our hugging face space.
 Link: https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
 
 1. The complete block diagram represetation along with working methodology of the proposed system is as follows.
-![](images/block diagram-2.png)
+![](images/block-diagram-2.png)
 
 Link: https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EmSY4MawO89Kt_6wsDn_V1YBzeuwLYe6z2b2VU2WJp0b3g?e=wb8IgU
 
