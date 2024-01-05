@@ -3,17 +3,17 @@
 ### The complete block diagram represetation along with working methodology of the proposed system is as follows.
 ![](images/block-diagram-2.png)
 
-2. The below figure show the samples images of benign and malignant data.
+### The below figure show the samples images of benign and malignant data.
 ![](images/Benign-Samples.png)
 ![](images/Malignant-Samples.png)
 
-3. The below figure shows smart transformation results which includes tiny benign moles, multiple moles on skin region, and large malignant moles.
+### The below figure shows smart transformation results which includes tiny benign moles, multiple moles on skin region, and large malignant moles.
 ![](images/Smart-Tranformations.png)
 
-4. The rendered data was cleaned out by discarding all the noisy samples as demonstrated below.
+### The rendered data was cleaned out by discarding all the noisy samples as demonstrated below.
 ![](images/Discarded-Samples.png)
 
-5. The model was trained for 120 epoch by selecting follwing set of model hyperparametrs.
+### The model was trained for 120 epoch by selecting follwing set of model hyperparametrs.
 ![](images/learning-samples.png)
 ![](images/Hyperparameters.png)
 
