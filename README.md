@@ -25,10 +25,12 @@ Link:
 
 2. The sample dataset can be downloaded from our github page sample dataset folder 
 
-
-3. The  trained/ tuned model can be downloaded from our hugging face space.
+3. Smart transformation data generated via DERM-T2IM can be downloaded from the below link.
 Link: 
 
-4. The complete study can be accessed via open archive link.
+4. The  trained/ tuned model can be downloaded from our hugging face space.
+Link: 
+
+5. The complete study can be accessed via open archive link.
 
 
