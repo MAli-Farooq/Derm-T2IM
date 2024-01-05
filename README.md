@@ -8,7 +8,7 @@
 ![](images/Malignant-Samples.png)
 
 3. The below figure shows smart transformation results whihc includes tiny benign moles, multiple moles on skin region, and large malignant moles.
-![](images/Smart-Transformation.png)
+![](images/Smart-Transformations.png)
 5. 
 
 This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools
