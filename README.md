@@ -7,9 +7,14 @@
 ![](images/Benign-Samples.png)
 ![](images/Malignant-Samples.png)
 
-3. The below figure shows smart transformation results whihc includes tiny benign moles, multiple moles on skin region, and large malignant moles.
+3. The below figure shows smart transformation results which includes tiny benign moles, multiple moles on skin region, and large malignant moles.
 ![](images/Smart-Tranformations.png)
-5. 
+
+4. The rendered data was cleaned out by discarding all the noisy samples as demonstrated below.
+![](images/Discarded-Samples.png)
+
+5. The model was trained for 120 epoch by selecting follwing set of model hyperparametrs.
+![](images/learning-Samples.png)
 
 This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools
 
