@@ -14,7 +14,7 @@
 ![](images/Discarded-Samples.png)
 
 5. The model was trained for 120 epoch by selecting follwing set of model hyperparametrs.
-![](images/learning-Samples.png)
+![](images/learning-samples.png)
 
 This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools
 
