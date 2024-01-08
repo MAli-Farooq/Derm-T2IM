@@ -23,17 +23,17 @@ This repo contains all the codes. trained models, Newly generated synthetic skin
 
 1. The complete synthetic dataset comprising of 3K benign and 3K malignant samples can be downloaded from the below google-drive link.
 
-Link: 
+Link: https://huggingface.co/datasets/MAli-Farooq/Derm-T2IM-Dataset
 
 2. The sample dataset can be downloaded from our github page sample dataset folder 
 
 3. Smart transformation data generated via DERM-T2IM can be downloaded from the below link.
 
-Link: 
+Link: https://huggingface.co/datasets/MAli-Farooq/Derm-T2IM-Dataset
 
 4. The  trained/ tuned model can be downloaded from our hugging face space.
 
-Link: 
+Link: https://huggingface.co/MAli-Farooq/Derm-T2IM
 
 5. The complete study can be accessed via open archive link.
 
