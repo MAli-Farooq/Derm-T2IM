@@ -14,9 +14,10 @@ This repo contains all the codes. trained models, Newly generated synthetic skin
 ### The rendered data was cleaned out by discarding all the noisy samples as demonstrated below.
 ![](images/Discarded-Samples.png)
 
-### The model was trained for 120 epoch by selecting follwing set of model hyperparametrs.
+### The model was trained for 120 epoch by selecting follwing set of model hyperparametrs and with average 5.2 GB of VRAM usage.
 ![](images/learning-samples.png)
 ![](images/Hyperparameters.png)
+![](images/VRAM.png)
 
 This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools
 
