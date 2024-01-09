@@ -1,5 +1,7 @@
 # Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models
-This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools.
+This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools. The model was tuned by employing Dreambooth and LoRA tool. 
+
+Link: https://dreambooth.github.io/
 
 ### The complete block diagram represetation along with working methodology of the proposed system is as follows.
 ![](images/block-diagram-2.png)
