@@ -25,9 +25,10 @@ This repo contains all the codes. trained models, Newly generated synthetic skin
 
 Link: https://huggingface.co/datasets/MAli-Farooq/Derm-T2IM-Dataset
 
-2. The sample dataset can be downloaded from our github page sample dataset folder 
+2. The sample dataset can be downloaded from our github page sample dataset folder
+Link: https://github.com/MAli-Farooq/Derm-T2IM/tree/main/sample%20dataset
 
-3. Smart transformation data generated via DERM-T2IM can be downloaded from the below link.
+4. Smart transformation data generated via DERM-T2IM can be downloaded from the below link.
 
 Link: https://huggingface.co/datasets/MAli-Farooq/Derm-T2IM-Dataset
 
