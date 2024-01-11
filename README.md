@@ -41,4 +41,6 @@ Link: https://huggingface.co/MAli-Farooq/Derm-T2IM
 
 5. The complete study can be accessed via open archive link.
 
+Link: https://arxiv.org/abs/2401.05159
+
 
