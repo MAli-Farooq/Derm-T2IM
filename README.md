@@ -43,4 +43,6 @@ Link: https://huggingface.co/MAli-Farooq/Derm-T2IM
 
 Link: https://arxiv.org/abs/2401.05159
 
+6. The work is submitted in EMBC 2024 conference.
+
 
