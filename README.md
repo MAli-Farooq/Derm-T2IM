@@ -3,6 +3,8 @@ This repo contains all the codes. trained models, Newly generated synthetic skin
 
 Link: https://dreambooth.github.io/
 
+*The work is submitted in EMBC 2024 conference.
+
 ### The complete block diagram represetation along with working methodology of the proposed system is as follows.
 ![](images/block-diagram-2.png)
 
