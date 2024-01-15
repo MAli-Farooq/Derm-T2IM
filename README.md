@@ -25,7 +25,6 @@ Dreambooth Enviroment setup on Colab (under construction): https://colab.researc
 ![](images/Hyperparameters.png)
 ![](images/VRAM.png)
 
-This repo contains all the codes. trained models, Newly generated synthetic skin lesion dataset using dreambooth and LoRA tools
 
 1. The complete synthetic dataset comprising of 3K benign and 3K malignant samples can be downloaded from the below google-drive link.
 
