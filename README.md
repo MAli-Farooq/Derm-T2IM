@@ -25,6 +25,9 @@ Dreambooth Enviroment setup on Colab (under construction): https://colab.researc
 ![](images/Hyperparameters.png)
 ![](images/VRAM.png)
 
+### The Derm-T2IM dataset in combination with real-world datasets shows robust results during the validation phase of CNN and ViT pretrained models.
+![](images/Classifier_Validation_Results.png)
+
 
 1. The complete synthetic dataset comprising of 3K benign and 3K malignant samples can be downloaded from the below google-drive link.
 
