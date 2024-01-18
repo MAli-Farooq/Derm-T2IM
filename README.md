@@ -3,7 +3,7 @@ This repo contains all the codes. trained models, Newly generated synthetic skin
 
 Link: https://dreambooth.github.io/
 
-Dreambooth Enviroment setup on Colab (under construction): https://colab.research.google.com/drive/1ZfgMO_ucKrPYyjhkISJRpNi0Cir-1VP_#scrollTo=A4Bae3VP6UsE
+%Dreambooth Enviroment setup on Colab (under construction): https://colab.research.google.com/drive/1ZfgMO_ucKrPYyjhkISJRpNi0Cir-1VP_#scrollTo=A4Bae3VP6UsE
 
 **The work is submitted in IEEE EMBC 2024 conference.**
 
