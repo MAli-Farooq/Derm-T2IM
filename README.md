@@ -5,6 +5,10 @@ Link: https://dreambooth.github.io/
 
 %Dreambooth Enviroment setup on Colab (under construction): https://colab.research.google.com/drive/1ZfgMO_ucKrPYyjhkISJRpNi0Cir-1VP_#scrollTo=A4Bae3VP6UsE
 
+To render new data using Derm-T2IM Model install the Stable Diffsuion GUI enviroment on colab using the below Github guide and upload the model in Gdrive/stable diffusion folder/models/ stable diffusion
+
+Link: https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive?tab=readme-ov-file
+
 **The work is submitted in IEEE EMBC 2024 conference.**
 
 ### The complete block diagram represetation along with working methodology of the proposed system is as follows.
